@@ -69,5 +69,4 @@ graph TB
     S3 --> S3_Static
     S3_Static --> CloudFront
     IGW --> ALB
-
 ```
