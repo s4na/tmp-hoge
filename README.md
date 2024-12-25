@@ -1,6 +1,6 @@
 # tmp-hoge
 
-```marmaid
+```mermaid
 graph TD
     User -->|アクセス| WebServer[Web サーバ]
     WebServer -->|API リクエスト| AppServer[アプリケーションサーバ]
